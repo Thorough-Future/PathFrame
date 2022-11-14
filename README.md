@@ -1,4 +1,4 @@
-### NetFrame is a flexible and scalable deep-learning framework to build segmentation model on large scale pathological images.
+### PathFrame is a flexible and scalable deep-learning framework to build segmentation model on large scale pathological images.
 
 ****
 
